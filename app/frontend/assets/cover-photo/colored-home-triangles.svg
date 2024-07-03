@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="20" height="20">
+
+<defs>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="1" x1="600" y1="706.6506" x2="600" y2="86.5253">
+        <stop stop-color="#B30062" offset="0%"/>
+        <stop stop-color="#F298C0" offset="100%"/>
+    </linearGradient>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="229" x1="618.5558" y1="586.2755" x2="598.6246" y2="896.3289">
+        <stop stop-color="#FAB200" offset="0%"/>
+        <stop stop-color="#E84610" offset="100%"/>
+    </linearGradient>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="470" x1="596.644" y1="822.5122" x2="596.644" y2="956.1597">
+        <stop stop-color="#FAB200" offset="0%"/>
+        <stop stop-color="#E84610" offset="100%"/>
+    </linearGradient>
+</defs>
+
+<g transform="matrix(0.01666667 0 0 0.01666667 0 0)">
+	<g>
+        <path d="M600.63 192.747L600.63 191.121L600 191.934L599.369 191.121L599.369 192.747L50 902.748L195.694 902.748L600 381.809L1004.305 902.748L1150 902.748L600.63 192.747" stroke="none" fill="url(#1)" />
+        <path d="M598.709 489.604L597.787 490.796L596.866 489.604L596.866 491.987L274.447 909.391L420.146 909.391L597.787 680.67L775.428 909.391L921.123 909.391L598.709 491.987L598.709 489.604" stroke="none" fill="url(#229)" />
+        <path d="M503.05 915.276L596.64 1008.879L690.238 915.276L596.64 821.691L503.05 915.276" stroke="none" fill="url(#470)" />
+	</g>
+</g>
+</svg>
